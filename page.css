@@ -1,0 +1,10 @@
+.flex-container
+{
+    display: flex;
+    flex-direction: row;
+    background-color: DodgerBlue;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    margin: 15px;
+}
